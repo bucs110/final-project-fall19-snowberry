@@ -9,8 +9,8 @@
 
 << [link to demo presentation slides](#) >>
 
-### Team: << team name >>
-#### << Team Members >>
+### Team: << Snowberry >>
+#### << Oluwadamilare Alamutu, Justin Cadette, Richard E >>
 
 ***
 
@@ -44,15 +44,15 @@
 ## Tasks and Responsibilities
 * You must outline the team member roles and who was responsible for each class/method, both individual and collaborative.
 
-### Software Lead - << name >>
+### Software Lead - << Oluwadamilare Alamutu >>
 
 << Worked as integration specialist by... >>
 
-### Front End Specialist - << name >>
+### Front End Specialist - << Richard E >>
 
 << Front-end lead conducted significant research on... >>
 
-### Back End Specialist - << name >>
+### Back End Specialist - << Justin Cadette >>
 
 << The back end specialist... >>
 
