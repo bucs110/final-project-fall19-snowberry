@@ -15,7 +15,7 @@
 ***
 
 ## Project Description
-<< Give an overview of your project >>
+<< Our project will be a role playing game where user inout can lead to a wide variety of final outcomes >>
 
 ***    
 
