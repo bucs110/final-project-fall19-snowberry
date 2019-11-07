@@ -8,6 +8,8 @@
 << [https://github.com/<repo>](#) >>
 
 << [link to demo presentation slides](#) >>
+https://drive.google.com/file/d/1Mi5WBT0nb6CsAjuOjqw_oe2v_rBrfV3n/view?usp=sharing
+https://drive.google.com/file/d/1ehW_HCByC-imvO7tDufV2tkcAnqnOKLi/view?usp=sharing
 
 ### Team: << Snowberry >>
 #### << Oluwadamilare Alamutu, Justin Cadette, Richard E >>
