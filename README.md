@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1ehW_HCByC-imvO7tDufV2tkcAnqnOKLi/view?usp=shari
 ***
 
 ## Project Description
-<< Our project will be a role playing game where user inout can lead to a wide variety of final outcomes >>
+<< Our project will be a platformer game where the player must control and eagle to avoid pipes as the eagle soars throuh the sky. The player gets one life and unlimited time to dodge as many pipes as they can. >>
 
 ***    
 
@@ -32,8 +32,10 @@ https://drive.google.com/file/d/1ehW_HCByC-imvO7tDufV2tkcAnqnOKLi/view?usp=shari
 * Non-Standard libraries
     * << You should have a list of any additional libraries or modules used (pygame, request) beyond non-standard python. >>
     * For each additional module you should include
+    pygame
         * url for the module documentation
         * a short description of the module
+       
 * Class Interface Design
     * << A simple drawing that shows the class relationships in your code (see below for an example). >>
         * ![class diagram](assets/class_diagram.jpg)
@@ -47,25 +49,41 @@ https://drive.google.com/file/d/1ehW_HCByC-imvO7tDufV2tkcAnqnOKLi/view?usp=shari
 * You must outline the team member roles and who was responsible for each class/method, both individual and collaborative.
 
 ### Software Lead - << Oluwadamilare Alamutu >>
+Asset collection
+controller
+player
 
-<< Worked as integration specialist by... >>
+<< Worked as integration specialist by finding ways to break down the program into multiple funstions and classes for the purpose of making the end goal easier to understand and the code easier to write. Having an idea of what the final code should look like structurally before even starting to write code allowed for more productive coding. In labs I found it easier to write an individual function than to cram the entire prgram into one class so I applied that concpet here.   >>
 
 ### Front End Specialist - << Richard E >>
-
-<< Front-end lead conducted significant research on... >>
+Game research 
+<< Front-end lead conducted significant research on the type of game we should make. >>
 
 ### Back End Specialist - << Justin Cadette >>
+bug testing
+upper pipe 
+lower pipe 
+main
 
-<< The back end specialist... >>
+<< The back end specialist played the game and searched for bugs. Finding bugs was critical in ensuring our game was playable. It was difficult to forecast how a player might play our game and where they might find issues so the only way to sort out bugs was to actually play the game. >>
 
 ## Testing
 * << Describe your testing strategy for your project. >>
-    * << Example >>
+    * << To test different aspects of the code I used the "print" command. I printed variables in order to be able to trace them and see how they chnaged. Tracing variables allowed me to see if a class was functionla regardless if I had the other supporting classes functioning. I also commented out lines of code that I felt were not behaving as they should in order to see the affect of them being present and absent. Commneting out troublesome lines of code allowed me to pinpoint problematic lines and being able to address those as opposed to re-writing an entire class or function. >>
 
 * Your ATP
 
 | Step                  | Procedure     | Expected Results  | Actual Results |
 | ----------------------|:-------------:| -----------------:| -------------- |
 |  1  | Run Counter Program  | GUI window appears with count = 0  |          |
-|  2  | click count button  | display changes to count = 1 |                 |
+|  2  | Summon help screen by pressing the "H" key  | The help screen appears |                 |
+|  3  | Leave the help screen by pressing the "Esc" key | The start screen is shown|
+|  4  | Start the game by clicking the "space" key | Game is started with eagle in mid-air|
+|  5  | Press "space" key to make the bird fly higher | The birds y-cord increases and it moves higher|
+|  6  | Press "space" to make eagle fly off screen | Eagle is unable to ascend once it reaches top of viewable area |
+|  7  | Let eagle fall off screen by doing nothing | Eagle is kept on the screen even when no buttons are pressed|
+|  8  | Press "enter" key to pause the game | The game is paused and the user is told how to un-pause |
+|  9  |Crash into a pipe to summon game over screen| Game over screen is brought up after failed pipe evasion |
+| 10  |Press "Esc" during the game over screen in order to exit| Game over screen closes and game ends |
+| 11  | Use the "X" at the top right of the window to exit at any time| Game quits when the x is pressed regardless of screen|
 etc...
