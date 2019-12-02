@@ -1,8 +1,8 @@
 :warning: Everything between << >> needs to be replaced (remove << >> after replacing)
 
-# << Project Title >>
+# << Jumpy Eagle >>
 ## CS 110 Final Project
-### << Semester, Year >>
+### << Fall, 2019 >>
 ### [Assignment Description](https://drive.google.com/open?id=1HLIk-539N9KiAAG1224NWpFyEl4RsPVBwtBZ9KbjicE)
 
 << [https://github.com/<repo>](#) >>
