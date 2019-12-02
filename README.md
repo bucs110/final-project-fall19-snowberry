@@ -25,6 +25,9 @@ https://drive.google.com/file/d/1ehW_HCByC-imvO7tDufV2tkcAnqnOKLi/view?usp=shari
 * << A wireframe or drawing of the user interface concept along with a short description of the interface. You should have one for each screen in your program. >>
     * For example, if your program has a start screen, game screen, and game over screen, you should include a wireframe / screenshot / drawing of each one and a short description of the components
 * << You should also have a screenshot of each screen for your final GUI >>
+https://drive.google.com/open?id=1k3QYdBO4uJZKD0PMwZtozUmpAk7Qh8fm (Start Screen)
+https://drive.google.com/file/d/1KEIM730jIebWTIJmh7_M9V4uXCRV2mYB/view?usp=sharing (Help Screen)
+https://drive.google.com/file/d/1JIA9bA76JO3wYrPmtJH8yu08Janx0kb9/view?usp=sharing (Game Over Screen)
 
 ***        
 
