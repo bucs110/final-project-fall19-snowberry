@@ -48,7 +48,7 @@ https://drive.google.com/file/d/1JIA9bA76JO3wYrPmtJH8yu08Janx0kb9/view?usp=shari
 * Class Interface Design
     * << A simple drawing that shows the class relationships in your code (see below for an example). >>
     
-    https://docs.google.com/presentation/d/1Flcs1BQS0nx_ea1oa4We22I5sXdYTfhrMIwa3h3S8hI/edit?usp=sharing(CLass Interface Diagram)
+    https://docs.google.com/presentation/d/1Flcs1BQS0nx_ea1oa4We22I5sXdYTfhrMIwa3h3S8hI/edit?usp=sharing(Class Interface Diagram)
         * ![class diagram](assets/class_diagram.jpg)
     * This does not need to be overly detailed, but should show how your code fits into the Model/View/Controller paradigm.
 * Classes
