@@ -88,16 +88,16 @@ main
 
 | Step                  | Procedure     | Expected Results  | Actual Results |
 | ----------------------|:-------------:| -----------------:| -------------- |
-|  1  | Run Counter Program  | GUI window appears with count = 0  |          |
-|  2  | Summon help screen by pressing the "H" key  | The help screen appears |                 |
-|  3  | Leave the help screen by pressing the "Esc" key | The start screen is shown|
-|  4  | Start the game by clicking the "space" key | Game is started with eagle in mid-air|
-|  5  | Press "space" key to make the bird fly higher | The birds y-cord increases and it moves higher|
-|  6  | Press "space" to make eagle fly off screen | Eagle is unable to ascend once it reaches top of viewable area |
-|  7  | Let eagle fall off screen by doing nothing | Eagle is kept on the screen even when no buttons are pressed|
-|  8  | Press "enter" key to pause the game | The game is paused and the user is told how to un-pause |
-|  9  |Crash into a pipe to summon game over screen| Game over screen is brought up after failed pipe evasion |
-| 10  |Press "Esc" during the game over screen in order to exit | Game over screen closes and game ends |
-| 11  | Use the "X" at the top right of the window to exit at any time | Game quits when the x is pressed regardless of screen|
-| 12  | Crash into pipe to summon high score | High Score is displayed after player dies before game over screen|
+|  1  | Run Counter Program  | GUI window appears with count = 0  |   PASS       |
+|  2  | Summon help screen by pressing the "H" key  | The help screen appears |    PASS             |
+|  3  | Leave the help screen by pressing the "Esc" key | The start screen is shown|PASS|
+|  4  | Start the game by clicking the "space" key | Game is started with eagle in mid-air|PASS|
+|  5  | Press "space" key to make the bird fly higher | The birds y-cord increases and it moves higher|PASS|
+|  6  | Press "space" to make eagle fly off screen | Eagle is unable to ascend once it reaches top of viewable area |PASS|
+|  7  | Let eagle fall off screen by doing nothing | Eagle is kept on the screen even when no buttons are pressed|PASS|
+|  8  | Press "enter" key to pause the game | The game is paused and the user is told how to un-pause |PASS|
+|  9  |Crash into a pipe to summon game over screen| Game over screen is brought up after failed pipe evasion |PASS|
+| 10  |Press "Esc" during the game over screen in order to exit | Game over screen closes and game ends |PASS|
+| 11  | Use the "X" at the top right of the window to exit at any time | Game quits when the x is pressed regardless of screen|PASS|
+| 12  | Crash into pipe to summon high score | High Score is displayed after player dies before game over screen|PASS\
 etc...
