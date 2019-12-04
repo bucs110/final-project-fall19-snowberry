@@ -23,6 +23,9 @@ https://drive.google.com/file/d/1ehW_HCByC-imvO7tDufV2tkcAnqnOKLi/view?usp=shari
 
 ## User Interface Design
 * << A wireframe or drawing of the user interface concept along with a short description of the interface. You should have one for each screen in your program. >>
+https://drive.google.com/file/d/1J0025TYK4HnqCwEec2WxJqSq2OcAyqw2/view?usp=sharing(Start Screen Draft)
+https://drive.google.com/file/d/1obHemzodQqv1uYQi6ttyC5rBd_XGuRBp/view?usp=sharing(Help Screen Draft)
+https://drive.google.com/file/d/1j_rzMpOEWRuMe8oj2F2spGBzXQSb6C_L/view?usp=sharing(Game Over Screen Draft)
     * For example, if your program has a start screen, game screen, and game over screen, you should include a wireframe / screenshot / drawing of each one and a short description of the components
 * << You should also have a screenshot of each screen for your final GUI >>
 https://drive.google.com/open?id=1k3QYdBO4uJZKD0PMwZtozUmpAk7Qh8fm (Start Screen)
