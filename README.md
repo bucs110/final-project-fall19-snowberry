@@ -87,6 +87,7 @@ main
 |  7  | Let eagle fall off screen by doing nothing | Eagle is kept on the screen even when no buttons are pressed|
 |  8  | Press "enter" key to pause the game | The game is paused and the user is told how to un-pause |
 |  9  |Crash into a pipe to summon game over screen| Game over screen is brought up after failed pipe evasion |
-| 10  |Press "Esc" during the game over screen in order to exit| Game over screen closes and game ends |
-| 11  | Use the "X" at the top right of the window to exit at any time| Game quits when the x is pressed regardless of screen|
+| 10  |Press "Esc" during the game over screen in order to exit | Game over screen closes and game ends |
+| 11  | Use the "X" at the top right of the window to exit at any time | Game quits when the x is pressed regardless of screen|
+| 12  | Crash into pipe to summon high score | High Score is displayed after player dies before game over screen|
 etc...
