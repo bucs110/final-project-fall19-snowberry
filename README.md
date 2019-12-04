@@ -99,5 +99,5 @@ main
 |  9  |Crash into a pipe to summon game over screen| Game over screen is brought up after failed pipe evasion |PASS|
 | 10  |Press "Esc" during the game over screen in order to exit | Game over screen closes and game ends |PASS|
 | 11  | Use the "X" at the top right of the window to exit at any time | Game quits when the x is pressed regardless of screen|PASS|
-| 12  | Crash into pipe to summon high score | High Score is displayed after player dies before game over screen|PASS\
+| 12  | Crash into pipe to summon high score | High Score is displayed after player dies before game over screen|PASS|
 etc...
