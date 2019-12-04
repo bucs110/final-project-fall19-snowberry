@@ -35,7 +35,10 @@ https://drive.google.com/file/d/1JIA9bA76JO3wYrPmtJH8yu08Janx0kb9/view?usp=shari
 * Non-Standard libraries
     * << You should have a list of any additional libraries or modules used (pygame, request) beyond non-standard python. >>
     * For each additional module you should include
-    pygame
+    
+    
+         pygame - https://www.pygame.org/docs/
+         Description: Pygame is a set of Python modules created to help design video games and graphics. It is designed to be used with the Python programming language.
         * url for the module documentation
         * a short description of the module
        
@@ -45,7 +48,11 @@ https://drive.google.com/file/d/1JIA9bA76JO3wYrPmtJH8yu08Janx0kb9/view?usp=shari
     * This does not need to be overly detailed, but should show how your code fits into the Model/View/Controller paradigm.
 * Classes
     * << You should have a list of each of your classes with a description. >>
-
+   controller=brings togetehr all of the other clases and allows the game to function
+   lowerPipe=creates the lower set of pipes that the eagle must avoid.
+   main="click to run" creates a new instance of the game and runs it
+   player=creats the eagle and governs its movement
+   upperPipe=creates the upper set of pipe that the eagle must avoid.
 ***
 
 ## Tasks and Responsibilities
