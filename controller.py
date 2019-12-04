@@ -21,9 +21,9 @@ class controller:
       self.scoreKeeper=0
       pygame.mixer.music.load("assets/Music.mp3")
       pygame.mixer.music.play()
-      self.startScreenImage=pygame.image.load("assets/startScreen.png")#.convert_alpha()
-      self.helpScreenImage=pygame.image.load("assets/helpScreen.png")#.convert_alpha()
-      self.gameOverScreenImage=pygame.image.load("assets/gameOverScreen.png")#.convert_alpha()
+      self.startScreenImage=pygame.image.load("assets/startScreen.png")
+      self.helpScreenImage=pygame.image.load("assets/helpScreen.png")
+      self.gameOverScreenImage=pygame.image.load("assets/gameOverScreen.png")
       self.state="GAME"
       self.rhighscore=0
       
